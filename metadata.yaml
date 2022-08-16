@@ -1,0 +1,42 @@
+_repo: Le-Voyage-du-Centurion_68632
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+creator:
+  author:
+    agent_name: Psichari, Ernest
+    birthdate: 1883
+    deathdate: 1914
+    gutenberg_agent_id: '54874'
+    url: http://www.gutenberg.org/2009/agents/54874
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Psichari
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68632'
+language: fr
+pgterms:marc904: https://archive.org/details/levoyageducentu00psic
+pgterms:marc905: 20220725101828psichari
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: France :Louis Conard,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Voyage du Centurion
+url: http://www.gutenberg.org/ebooks/68632
