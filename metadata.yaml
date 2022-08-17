@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Paul_Bourget
     - https://en.wikipedia.org/wiki/Paul_Bourget
+covers:
+- cover_type: archival
+  image_path: 68632-h/images/cover.jpg
 creator:
   author:
     agent_name: Psichari, Ernest
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54874
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Psichari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68632#Le-Voyage-du-Centurion
 gutenberg_issued: '2022-07-29'
 identifiers:
   gutenberg: '68632'
